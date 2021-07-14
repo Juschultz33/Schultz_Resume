@@ -8,78 +8,66 @@ Student Studying Data Science at Brigham Young Univerity Idaho
 <div id="webaddress">
 <a href="Juschultz33@gmail.com">Juschultz33@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/justin-schultz-ds/">LinkedIn</a>
+| <a href="https://juschultz33.github.io/Schultz_Resume/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected 2022`
+__Brigham Young Univerity-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Current GPA 3.82
+- Thomas E. Ricks scholarship recipient granted to students with great GPAs
+- Relevant Courses: Applied Linear Regression, Social Study Statistics, Database Design, Intermediate Statistics, Data Science Programming, Public Speaking
 
 
-## Related Experience
+## Technical Experience
+
+#### Coding Skills
+
+| Advanced:                 |Competent:         | 
+| -------------             |:-------------:    | 
+| R, Python                 | JavaScritp, C++   | 
+| SQL, Tableau, Excel       | Power BI          | 
+  
 
 ### Internships
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Data Science Society__, Rexburg, Id
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Utilized Geolocation to find the distance of 50 convenience stores to their closest highway exit
+- Created Dashboards for Murphy Tractor & Equipment managers to view their products
+- Attended weekly video meeting to collaborate with group members to improve project
+- Developed an understanding of how to use programming in real-world problems
 
-### Data Science Lead
+### Work Experience
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`August 2019-November 2019`
+__Raw Product Coordinator__, 
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Collected Data Sampling for Quality assurance testing
+- Consulted with company leaders to optimized inventory logistics
+- Managed multiple storage areas enforcing safety and proper protocol
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`August 2018-December 2018
+`
+__Chemical Transport Assistant__,
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Specialized in the transportation of hazardous chemicals to a variety of locations through the
+use differential pressure
 
 
-## Service and Work History
+### Volunteer Experience
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`July 2016 - July 2018`
+__Volunteer Representative__
 
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+- Lead groups of 10 - 25 volunteers in community service and ecclesiastical outreach endeavors
+- Collaborated with people of different backgrounds and cultures
 
 
 <!-- ### Footer
